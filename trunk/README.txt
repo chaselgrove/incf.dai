@@ -2,6 +2,8 @@
 INCF Digital Atlasing Infrastructure
 ====================================
 
+...also used for the github demo!
+
 This package provides a Python API to the Digital Brain Atlasing web
 services provided by the International Neuroinformatics Coordinating  
 Facility (INCF_). To be useful and functional it requires a working
